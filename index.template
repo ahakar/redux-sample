@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <meta http-equiv="Pragma" content="no-cache">
+  <title>lesson 10 - Redux</title>
+</head>
+<body>
+  <div id="root"></div>
+  <!-- <script>window.DATA_HOST = 'http://localhost:8080/context-path/api';</script> -->
+  <!-- <script src="vendor/jspdf.min.js"></script> -->
+</body>
+</html>

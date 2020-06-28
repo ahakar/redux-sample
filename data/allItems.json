@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 11,
+      "name": "Bread",
+      "price": 25.90
+    },
+    {
+      "id": 12,
+      "name": "Butter",
+      "price": 3.00
+    },
+    {
+      "id": 13,
+      "name": "Jam",
+      "price": 10.00
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 20,
+      "name": "APPARALS",
+      "price": 1025.90
+    },
+    {
+      "id": 21,
+      "name": "FOOTWEAR-SHOES",
+      "price": 2923.00
+    },
+    {
+      "id": 22,
+      "name": "FOOTWEAR-SANDALS",
+      "price": 1002.00
+    }
+  ]
+}
